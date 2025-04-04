@@ -18,7 +18,7 @@ public class TshApplication {
     @Bean
     public CommandLineRunner commandLineRunner(){
         return args -> {
-            log.debug("program başlatıldı");
+            log.debug("program başlatıldıoı");
         };
     }
 
